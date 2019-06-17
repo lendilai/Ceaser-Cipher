@@ -34,4 +34,4 @@ Accessing the project has a bug but to solve this click JAVA then Caesar-cipher 
 You can contact me via my gmail account at ngethenan768@gmail.com.
 
 ## License
-The application is under an [MIT license](https://github.com/lendilai/Ceaser-Cipher/blob/master/JAVA/Caesar-cipher/LICENSE).
+The application is under an [MIT license](https://github.com/lendilai/Ceaser-Cipher/blob/master/LICENSE).
